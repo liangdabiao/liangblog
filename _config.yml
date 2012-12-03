@@ -1,0 +1,4 @@
+baseurl: /liangblog
+markdown: rdiscount
+pygments: true
+
